@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theharshithh
 - 👀 I’m interested in Web development and Machine Learning
-- 🌱 I’m currently learning Web developement
+- 🌱 I’m currently learning ML -> Finetuning SLMS for enterprsie usecases
 - 💞️ I’m looking to collaborate on WebD and ML
 - 📫 U can find me over [LinkedIn](www.linkedin.com/in/theharshithh), [Instagram](https://www.instagram.com/theharshith/); 
 
