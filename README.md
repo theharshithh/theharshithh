@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @theharshithh
-- 👀 I’m interested in Web development and Machine Learning
-- 🌱 I’m currently learning ML -> Finetuning SLMS for enterprsie usecases
-- 💞️ I’m looking to collaborate on WebD and ML
-- 📫 U can find me over [LinkedIn](www.linkedin.com/in/theharshithh), [Instagram](https://www.instagram.com/theharshith/); 
+- Hi i am Harshith
+
+- Learning. Visit again to check a better readme!
+- if curious, social below. 
+- 📫 U can find me over [LinkedIn](www.linkedin.com/in/theharshithh)
 
 <!---
 theharshithh/theharshithh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
