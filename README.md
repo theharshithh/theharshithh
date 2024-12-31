@@ -1,4 +1,4 @@
-x.com: x.com/theharshithh
+[x.com/theharshithh](https://x.com/theharshithh)
 
 <!---
 theharshithh/theharshithh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
