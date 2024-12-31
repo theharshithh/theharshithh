@@ -1,8 +1,4 @@
-- Hi i am Harshith
-
-- Learning. Visit again to check a better readme!
-- if curious, social below. 
-- 📫 U can find me over [twitter](www.x.com/theharshithh)
+x.com: x.com/theharshithh
 
 <!---
 theharshithh/theharshithh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
